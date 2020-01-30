@@ -37,7 +37,7 @@ jobs:
     
     - name: Copy images
       run: |
-        cp -r ./images ./public/images
+        cp -r ./images/* ./public/images
       
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2
