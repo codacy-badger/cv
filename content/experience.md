@@ -1,6 +1,6 @@
 +++
-title = "Projects"
-slug = "projects"
+title = "Experience"
+slug = "experience"
 +++
 
 Nothing to see here... Move along!
